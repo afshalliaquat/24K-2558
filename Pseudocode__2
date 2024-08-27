@@ -1,0 +1,7 @@
+Take three variables as input and add them without using the + operator
+
+START
+SET a
+SET b
+SET c
+SET 
