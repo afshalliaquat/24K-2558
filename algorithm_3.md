@@ -1,4 +1,4 @@
-#### Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+#### Q :- Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
 
 ask user to enter a no a
 
