@@ -6,11 +6,7 @@ INPUT a
 
 INPUT b
 
-INPUT c 
-
-INPUT arithmetic_operator "+" or "-"
-
-SET c = arithmetic_operator
+INPUT c which wil be only arithmetic_operator "+" or "-"
 
 SET sum = 0
 
