@@ -1,4 +1,4 @@
-#### Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6).If so, determine if it’s an even number or odd number as well.
+#### Q :- Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6).If so, determine if it’s an even number or odd number as well.
 
 Enter a no suppose N
 
