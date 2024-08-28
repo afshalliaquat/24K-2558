@@ -1,21 +1,29 @@
-#### Q :- Create a small calculator which only does ‘+’ or ‘-‘Operations.
+#### Q :- Create a small calculator which only does ‘+’ or ‘-‘ Operations. (Hint: Take three variable inputs with one being used for the operator)
 
-INPUT no_a
+START
 
-INPUT no_b
+INPUT a
+
+INPUT b
+
+INPUT c 
+
+INPUT arithmetic_operator "+" or "-"
+
+SET c = arithmetic_operator
 
 SET sum = 0
 
 SET sub = 0
 
-INPUT arithmetic_operator "+" or "-"
+IF c == '+' THEN
 
-IF arihemetic_operator is + THEN
-
-     SET sum = no_a + no_b
+     SET sum = ( a) c (b)
      DISPLAY sum
      
-ELSE IF arihemetic_operator is - THEN
+ELSE IF c == '-' THEN
 
-     SET sub = no_a - no_b
+     SET sub = ( a) c (b)
      DISPLAY sub
+
+END
