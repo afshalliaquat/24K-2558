@@ -8,6 +8,6 @@ INPUT b
 
 INPUT c
 
-SET sum = ADD (a,b,c)
+SET sum = a- (-b) -(-c)
 
     display sum
