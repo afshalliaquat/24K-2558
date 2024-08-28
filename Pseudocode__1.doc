@@ -1,9 +1,0 @@
-*Find_the_maximum_number_in_any_of_three_variables*
-START
-SET a
-SET b
-SET c
-IF a > b AND a > c THEN a is max
-IF b > a AND b > c THEN b is max
-IF b > a AND c > b THEN c is max
-END
